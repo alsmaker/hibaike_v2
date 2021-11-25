@@ -1,0 +1,1773 @@
+[
+  {
+    "company": "대림",
+    "model": [
+      {
+        "name": "AT 125D",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "ATV"
+      },
+      {
+        "name": "ATS",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "CB115",
+        "displacement": 110,
+        "fuel": "가솔린",
+        "type": "비지니스"
+      },
+      {
+        "name": "DH88",
+        "displacement": 88,
+        "fuel": "가솔린",
+        "type": "비지니스"
+      },
+      {
+        "name": "DX250",
+        "displacement": 250,
+        "fuel": "가솔린",
+        "type": "오프로드"
+      },
+      {
+        "name": "FC125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "GH50H",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "MCT 125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "Q2",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "Q2 다이나믹",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "Q3",
+        "displacement": 250,
+        "fuel": "가솔린",
+        "type": "빅스쿠터"
+      },
+      {
+        "name": "ST50",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "T50",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "TR150",
+        "displacement": 150,
+        "fuel": "가솔린",
+        "type": "아메리칸스타일"
+      },
+      {
+        "name": "UH115",
+        "displacement": 115,
+        "fuel": "가솔린",
+        "type": "비지니스"
+      },
+      {
+        "name": "VA125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "VD125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "VF100",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "VF100F",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "VF100P",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "VF125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "F타입"
+      },
+      {
+        "name": "VF125F",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "f타입"
+      },
+      {
+        "name": "VF125H",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "F타입"
+      },
+      {
+        "name": "VN100",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "VR125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "F타입"
+      },
+      {
+        "name": "VS125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "아메리칸스타일"
+      },
+      {
+        "name": "VS125H",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "아메리칸스타일"
+      },
+      {
+        "name": "VT250",
+        "displacement": 250,
+        "fuel": "가솔린",
+        "type": "네이키드"
+      },
+      {
+        "name": "VX125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "네이키드"
+      },
+      {
+        "name": "XQ125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "XQ250",
+        "displacement": 249,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "네오포르테",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "뉴 베스비LC125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "뉴메이저",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "다트125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "데이스타 125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "아메리칸스타일"
+      },
+      {
+        "name": "데이스타 150",
+        "displacement": 150,
+        "fuel": "가솔린",
+        "type": "아메리칸스타일"
+      },
+      {
+        "name": "데이스타 250",
+        "displacement": 250,
+        "fuel": "가솔린",
+        "type": "아메리칸스타일"
+      },
+      {
+        "name": "델피노 100",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "델피노 125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "델피노 50",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "델피노 비지니스",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "델피노 스포츠",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "로드윈 125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "네이키드"
+      },
+      {
+        "name": "로드윈 250",
+        "displacement": 250,
+        "fuel": "가솔린",
+        "type": "네이키드"
+      },
+      {
+        "name": "로드윈 VJF250",
+        "displacement": 250,
+        "fuel": "가솔린",
+        "type": "F타입"
+      },
+      {
+        "name": "로드윈 VJF-I",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "F타입"
+      },
+      {
+        "name": "마그마",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "아메리칸스타일"
+      },
+      {
+        "name": "마리오",
+        "displacement": 124,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "메세지",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "메세지 슈퍼킹50",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "F타입"
+      },
+      {
+        "name": "메이저50",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "메이저 ATS",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "메이져100",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "베스비125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "베스비 2",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "베스비 3",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "베스비 클래식",
+        "displacement": 124,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "보니따",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "보라매 50",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "비글",
+        "displacement": 49,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "비본",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "솔루션",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "아메리칸스타일"
+      },
+      {
+        "name": "슈퍼리드",
+        "displacement": 90,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "슈퍼리드 125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "스티져 E125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "스티져 L125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "스티져 S125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "시티 베스트115",
+        "displacement": 115,
+        "fuel": "가솔린",
+        "type": "비지니스"
+      },
+      {
+        "name": "씨티 100",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "비니지스"
+      },
+      {
+        "name": "씨티 에이스",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "비지니스"
+      },
+      {
+        "name": "씨티 에이스 110이코노믹",
+        "displacement": 110,
+        "fuel": "가솔린",
+        "type": "비지니스"
+      },
+      {
+        "name": "씨티 에이스2",
+        "displacement": 108,
+        "fuel": "가솔린",
+        "type": "비지니스"
+      },
+      {
+        "name": "씨티 에이스2 디스크",
+        "displacement": 110,
+        "fuel": "가솔린",
+        "type": "비지니스"
+      },
+      {
+        "name": "씨티 에이스2 이코노믹",
+        "displacement": 110,
+        "fuel": "가솔린",
+        "type": "비지니스"
+      },
+      {
+        "name": "씨티 플러스",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "비지니스"
+      },
+      {
+        "name": "아로마",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "알피아50",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "알피노",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "F타입"
+      },
+      {
+        "name": "애니웨이",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "어드밴스",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "아메리칸스타일"
+      },
+      {
+        "name": "어필",
+        "displacement": 50,
+        "fuel": "전기",
+        "type": "스쿠터"
+      },
+      {
+        "name": "에디",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "에이포",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "에이포 비지니스",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "엠보이",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "올코트100",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "ATV"
+      },
+      {
+        "name": "올코트125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "ATV"
+      },
+      {
+        "name": "올코트150",
+        "displacement": 150,
+        "fuel": "가솔린",
+        "type": "ATV"
+      },
+      {
+        "name": "올코트50",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "ATV"
+      },
+      {
+        "name": "위티100",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "위티50",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "위티80",
+        "displacement": 72,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "위티 BIZ",
+        "displacement": 98,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "윌리80",
+        "displacement": 80,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "윙크",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "윙크 2",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "재피",
+        "displacement": 20,
+        "fuel": "전기",
+        "type": "스쿠터"
+      },
+      {
+        "name": "카리스마",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "R타입"
+      },
+      {
+        "name": "카이트",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "커플",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "코디",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "택트",
+        "displacement": 49,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "트랜스업",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "포르테 125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "프리윙125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "프리윙250",
+        "displacement": 250,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "핸디",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      }
+    ]
+  },
+  {
+    "company": "BM모터스",
+    "model": [
+      {
+        "name": "RASER 400",
+        "displacement": 400,
+        "fuel": "가솔린",
+        "type": "ATV"
+      },
+      {
+        "name": "UTV 500",
+        "displacement": 500,
+        "fuel": "가솔린",
+        "type": "ATV"
+      },
+      {
+        "name": "UTV 필드",
+        "displacement": 150,
+        "fuel": "가솔린",
+        "type": "ATV"
+      },
+      {
+        "name": "셀파",
+        "displacement": 30,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      }
+    ]
+  },
+  {
+    "company": "효성",
+    "model": [
+      {
+        "name": "ALT 180",
+        "displacement": 180,
+        "fuel": "가솔린",
+        "type": "ATV"
+      },
+      {
+        "name": "ALT 300",
+        "displacement": 300,
+        "fuel": "가솔린",
+        "type": "ATV"
+      },
+      {
+        "name": "AX 100",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "네이키드"
+      },
+      {
+        "name": "DD 100",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "비지니스"
+      },
+      {
+        "name": "DD 110",
+        "displacement": 110,
+        "fuel": "가솔린",
+        "type": "비지니스"
+      },
+      {
+        "name": "FR50",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "비지니스"
+      },
+      {
+        "name": "GF125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "네이키드"
+      },
+      {
+        "name": "GMD",
+        "displacement": 50,
+        "fuel": "전기",
+        "type": "스쿠터"
+      },
+      {
+        "name": "GP125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "네이키드"
+      },
+      {
+        "name": "GS125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "네이키드"
+      },
+      {
+        "name": "GSX250E",
+        "displacement": 250,
+        "fuel": "가솔린",
+        "type": "네이키드"
+      },
+      {
+        "name": "GX125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "네이키드"
+      },
+      {
+        "name": "KR110",
+        "displacement": 110,
+        "fuel": "가솔린",
+        "type": "비지니스"
+      },
+      {
+        "name": "LT160",
+        "displacement": 160,
+        "fuel": "가솔린",
+        "type": "ATV"
+      },
+      {
+        "name": "MS3",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "MS3 250",
+        "displacement": 250,
+        "fuel": "가솔린",
+        "type": "빅스쿠터"
+      },
+      {
+        "name": "MX",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "오프로드"
+      },
+      {
+        "name": "RT125D",
+        "displacement": 124,
+        "fuel": "가솔린",
+        "type": "오프로드"
+      },
+      {
+        "name": "RX125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "오프로드"
+      },
+      {
+        "name": "RX125 SM",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "오프로드"
+      },
+      {
+        "name": "SD 90",
+        "displacement": 90,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "ST7",
+        "displacement": 678,
+        "fuel": "가솔린",
+        "type": "아메리칸스타일"
+      },
+      {
+        "name": "TE450",
+        "displacement": 450,
+        "fuel": "가솔린",
+        "type": "ATV"
+      },
+      {
+        "name": "TN 125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "네이키드"
+      },
+      {
+        "name": "겔랑",
+        "displacement": 124,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "그란투스 125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "그랑 100",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "그랑프리",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "뉴티 50",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "뉴티 50업",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "델리로드 100",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "라온 100",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "래피드",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "러브",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "레브 125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "로망스 100",
+        "displacement": 99,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "로망스 50",
+        "displacement": 49,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "로미오",
+        "displacement": 49,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "마스타",
+        "displacement": 110,
+        "fuel": "가솔린",
+        "type": "비지니스"
+      },
+      {
+        "name": "마스터110 DEX",
+        "displacement": 110,
+        "fuel": "가솔린",
+        "type": "비지니스"
+      },
+      {
+        "name": "마스터 110 STD",
+        "displacement": 110,
+        "fuel": "가솔린",
+        "type": "비지니스"
+      },
+      {
+        "name": "마이다스",
+        "displacement": 110,
+        "fuel": "가솔린",
+        "type": "비지니스"
+      },
+      {
+        "name": "메가젯",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "미라쥬 125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "아메리칸스타일"
+      },
+      {
+        "name": "미라쥬 250",
+        "displacement": 250,
+        "fuel": "가솔린",
+        "type": "아메리칸스타일"
+      },
+      {
+        "name": "미라쥬 250 DR ABS",
+        "displacement": 250,
+        "fuel": "가솔린",
+        "type": "아메리칸스타일"
+      },
+      {
+        "name": "미라쥬 650",
+        "displacement": 650,
+        "fuel": "가솔린",
+        "type": "아메리칸스타일"
+      },
+      {
+        "name": "미라쥬 650 스폐셜",
+        "displacement": 650,
+        "fuel": "가솔린",
+        "type": "아메리칸스타일"
+      },
+      {
+        "name": "미라쥬 650 프로",
+        "displacement": 650,
+        "fuel": "가솔린",
+        "type": "아메리칸스타일"
+      },
+      {
+        "name": "베테랑 100",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "베타랑 50",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "비너스",
+        "displacement": 49,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "비버 125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "비버 125 UP 디럭스",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "비버 125 UP 스탠다드",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "비버 125 V 디럭스",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "비버 125 V 스탠다드",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "센스 100",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "센스 50",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "슈퍼캡 100",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "슈퍼캡 50",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "아띠 100",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "아이미 125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "아이탱고",
+        "displacement": 0,
+        "fuel": "전기",
+        "type": "스쿠터"
+      },
+      {
+        "name": "아퀼라 125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "아메리칸스타일"
+      },
+      {
+        "name": "아퀼라 300",
+        "displacement": 300,
+        "fuel": "가솔린",
+        "type": "아메리칸스타일"
+      },
+      {
+        "name": "어드레스 100",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "에바",
+        "displacement": 0,
+        "fuel": "전기",
+        "type": "스쿠터"
+      },
+      {
+        "name": "에스코트 110",
+        "displacement": 110,
+        "fuel": "가솔린",
+        "type": "비지니스"
+      },
+      {
+        "name": "에이온 125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "엑스피드",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "엑시드 125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "엑시드 150",
+        "displacement": 150,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "엑시브 125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "레플리카"
+      },
+      {
+        "name": "엑시브 250N",
+        "displacement": 250,
+        "fuel": "가솔린",
+        "type": "네이키드"
+      },
+      {
+        "name": "엑시브 250R",
+        "displacement": 250,
+        "fuel": "가솔린",
+        "type": "레플리카"
+      },
+      {
+        "name": "엔프로",
+        "displacement": 50,
+        "fuel": "전기",
+        "type": "스쿠터"
+      },
+      {
+        "name": "와우 100",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "ATV"
+      },
+      {
+        "name": "와우 100 2",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "ATV"
+      },
+      {
+        "name": "와우 100R",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "ATV"
+      },
+      {
+        "name": "와우 50",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "ATV"
+      },
+      {
+        "name": "와이져 100",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "ATV"
+      },
+      {
+        "name": "요타 80",
+        "displacement": 80,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "윈디",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "비지니스"
+      },
+      {
+        "name": "제파",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "줄리엣",
+        "displacement": 0,
+        "fuel": "전기",
+        "type": "스쿠터"
+      },
+      {
+        "name": "채트 100",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "비지니스"
+      },
+      {
+        "name": "코멧 125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "네이키드"
+      },
+      {
+        "name": "코멧 125R",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "레플리카"
+      },
+      {
+        "name": "코멧 125RC",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "레플리카"
+      },
+      {
+        "name": "코멧 250",
+        "displacement": 250,
+        "fuel": "가솔린",
+        "type": "네이키드"
+      },
+      {
+        "name": "코멧 250P",
+        "displacement": 250,
+        "fuel": "가솔린",
+        "type": "네이키드"
+      },
+      {
+        "name": "코멧 250R",
+        "displacement": 250,
+        "fuel": "가솔린",
+        "type": "레플리카"
+      },
+      {
+        "name": "코멧 250RC",
+        "displacement": 250,
+        "fuel": "가솔린",
+        "type": "레플리카"
+      },
+      {
+        "name": "코멧 250S",
+        "displacement": 250,
+        "fuel": "가솔린",
+        "type": "네이키드"
+      },
+      {
+        "name": "코멧 650",
+        "displacement": 650,
+        "fuel": "가솔린",
+        "type": "네이키드"
+      },
+      {
+        "name": "코멧 650P",
+        "displacement": 650,
+        "fuel": "가솔린",
+        "type": "네이키드"
+      },
+      {
+        "name": "코멧 650R",
+        "displacement": 650,
+        "fuel": "가솔린",
+        "type": "레플리카"
+      },
+      {
+        "name": "코멧 650RC",
+        "displacement": 650,
+        "fuel": "가솔린",
+        "type": "레플리카"
+      },
+      {
+        "name": "코멧 650S",
+        "displacement": 650,
+        "fuel": "가솔린",
+        "type": "네이키드"
+      },
+      {
+        "name": "코멧650S 스포츠투어러",
+        "displacement": 650,
+        "fuel": "가솔린",
+        "type": "네이키드"
+      },
+      {
+        "name": "크루즈",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "아메리칸스타일"
+      },
+      {
+        "name": "크루즈2",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "아메리칸스타일"
+      },
+      {
+        "name": "크루즈 클래식",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "아메리칸스타일"
+      },
+      {
+        "name": "토리 125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "토리 50",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "트로이",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "오프로드"
+      },
+      {
+        "name": "트로이 RT125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "오프로드"
+      },
+      {
+        "name": "티니 110",
+        "displacement": 110,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "파트너 100",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "프리마 ",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "프리마 랠리100",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "프리마 랠리50",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "프리마 레이싱",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "하이캡",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      }
+    ]
+  },
+  {
+    "company": "한솜모터스",
+    "model": [
+      {
+        "name": "CF100",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "비지니스"
+      },
+      {
+        "name": "메가젯",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      }
+    ]
+  },
+  {
+    "company": "SYM",
+    "model": [
+      {
+        "name": "GR125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "GR125 EFI",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "GTS 125 CBS",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "WOO 100",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "Z+125 ABS",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "Z+300 ABS/TCS",
+        "displacement": 300,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "Z1 125I",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "레이더엑스 125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "맥심400I",
+        "displacement": 400,
+        "fuel": "가솔린",
+        "type": "빅스쿠터"
+      },
+      {
+        "name": "맥심400I ABS",
+        "displacement": 400,
+        "fuel": "가솔린",
+        "type": "빅스쿠터"
+      },
+      {
+        "name": "맥심600I ABS",
+        "displacement": 600,
+        "fuel": "가솔린",
+        "type": "빅스쿠터"
+      },
+      {
+        "name": "미오 100",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "미오 100SS",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "미오 115EFI",
+        "displacement": 115,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "미오 50",
+        "displacement": 50,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "보이져 125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "보이져 125EFI",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "보이져 125 EVO",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "보이져 125I",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "보이져 250",
+        "displacement": 250,
+        "fuel": "가솔린",
+        "type": "빅스쿠터"
+      },
+      {
+        "name": "보이져 300I",
+        "displacement": 300,
+        "fuel": "가솔린",
+        "type": "빅스쿠터"
+      },
+      {
+        "name": "보이져 300EFI",
+        "displacement": 300,
+        "fuel": "가솔린",
+        "type": "빅스쿠터"
+      },
+      {
+        "name": "센트로 110",
+        "displacement": 110,
+        "fuel": "가솔린",
+        "type": "비지니스"
+      },
+      {
+        "name": "스팅거 VS 125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "씨티콤",
+        "displacement": 300,
+        "fuel": "가솔린",
+        "type": "빅스쿠터"
+      },
+      {
+        "name": "씨티콤 300 IS",
+        "displacement": 300,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "아우라",
+        "displacement": 100,
+        "fuel": "가솔린",
+        "type": "비지니스"
+      },
+      {
+        "name": "와이드 에보125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "울프 125R",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "네이키드"
+      },
+      {
+        "name": "울프 125 노스텔지아",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "네이키드"
+      },
+      {
+        "name": "울프 125 클래식",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "네이키드"
+      },
+      {
+        "name": "울프 SB 300 CR",
+        "displacement": 300,
+        "fuel": "가솔린",
+        "type": "네이키드"
+      },
+      {
+        "name": "제트 14",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "제트S125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "제트 브이125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "제트파워 125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "제트파워 EVO 125I",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "조이라이더 125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "조이라이더 125EVO",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "조이라이더 125S CBS",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "조이라이더 200I",
+        "displacement": 200,
+        "fuel": "가솔린",
+        "type": "빅스쿠터"
+      },
+      {
+        "name": "조이맥스 125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "조이맥스 125I CBS",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "조이맥스 125R",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "조이맥스 300I",
+        "displacement": 300,
+        "fuel": "가솔린",
+        "type": "빅스쿠터"
+      },
+      {
+        "name": "조이맥스 300I ABS",
+        "displacement": 300,
+        "fuel": "가솔린",
+        "type": "빅스쿠터"
+      },
+      {
+        "name": "조이맥스 Z 125 CBS",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "조이맥스 Z125 플러스",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "조이맥스 Z 300ABS",
+        "displacement": 300,
+        "fuel": "가솔린",
+        "type": "빅스쿠터"
+      },
+      {
+        "name": "조이맥스 Z 300플러스",
+        "displacement": 300,
+        "fuel": "가솔린",
+        "type": "빅스쿠터"
+      },
+      {
+        "name": "카미온",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "쿼드랜더 300S",
+        "displacement": 300,
+        "fuel": "가솔린",
+        "type": "ATV"
+      },
+      {
+        "name": "크록스 125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "네이키드"
+      },
+      {
+        "name": "크루심125 ABS",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "크루심 300ABS",
+        "displacement": 300,
+        "fuel": "가솔린",
+        "type": "빅스쿠터"
+      },
+      {
+        "name": "티투스 125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "네이키드"
+      },
+      {
+        "name": "티투스 150",
+        "displacement": 150,
+        "fuel": "가솔린",
+        "type": "네이키드"
+      },
+      {
+        "name": "티투스 250",
+        "displacement": 250,
+        "fuel": "가솔린",
+        "type": "네이키드"
+      },
+      {
+        "name": "파이터 125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "파이터 150",
+        "displacement": 150,
+        "fuel": "가솔린",
+        "type": "빅스쿠터"
+      },
+      {
+        "name": "피들 3 125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      },
+      {
+        "name": "피들엑스 125",
+        "displacement": 125,
+        "fuel": "가솔린",
+        "type": "스쿠터"
+      }
+    ]
+  }
+]
